@@ -17,10 +17,6 @@ Dim Dark is a sleek and modern dark theme for Visual Studio Code, designed to pr
 3. Click **Install**.
 4. Go to the **Theme Picker** (`Ctrl+K Ctrl+T` or `Cmd+K Cmd+T` on macOS) and select **Dim Dark**.
 
-## Screenshot
-
-Make sure you replace `path/to/your/screenshot.png` with the actual path or URL of your screenshot. This could be:
-
 ## Contributing
 
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/professinalsidd/vs-code-theme-extension).
