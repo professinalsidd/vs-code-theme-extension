@@ -1,7 +1,8 @@
 {
-  "name": "dark",
-  "displayName": "dark",
-  "description": "it's black theme",
+  "name": "dimDark",
+  "displayName": "DimDark",
+  "publisher": "professionalsidd",
+  "description": "it's dim dark theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
