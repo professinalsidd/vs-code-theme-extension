@@ -2,8 +2,8 @@
   "name": "dimDark",
   "displayName": "DimDark",
   "publisher": "professionalsidd",
-  "description": "it's dim dark theme",
-  "version": "0.0.1",
+  "description": "A sleek and modern dark theme designed for developers who prefer a visually relaxing environment. Dim Dark offers a balanced contrast that reduces eye strain, making it perfect for extended coding sessions. Enjoy a clean and focused workspace that highlights your code without overwhelming your senses.",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.95.0"
   },
