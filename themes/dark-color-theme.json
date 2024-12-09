@@ -3,8 +3,8 @@
   "colors": {
     "editor.background": "#1d1d1db5",
     "editor.foreground": "#FCC737",
-    "activityBarBadge.background": "#FCC737",
-    "sideBarTitle.foreground": "#FCC737"
+    "activityBarBadge.background": "#3fba89",
+    "sideBarTitle.foreground": "#37fc4b"
   },
   "tokenColors": [
     {
@@ -19,14 +19,14 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#FCC737"
+        "foreground": "#faa364"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#FCC737"
+        "foreground": "#10ca45"
       }
     },
     {
@@ -40,15 +40,19 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#C2FFC7"
+        "foreground": "#f98f8f"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": ["keyword.control", "constant.other.color", "punctuation"],
+      "settings": {
+        "foreground": "#0ee8c4"
       }
     },
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.control",
-        "constant.other.color",
-        "punctuation",
         "meta.tag",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
@@ -60,7 +64,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#F2F9FF"
+        "foreground": "#D9EAFD"
       }
     },
     {
@@ -91,7 +95,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#F8FAFC"
+        "foreground": "#e4e7eb"
       }
     },
     {
@@ -166,7 +170,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#042b3b"
       }
     },
     {
@@ -522,7 +526,7 @@
         "punctuation.section.class.end"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#09484877"
       }
     },
     {
@@ -544,7 +548,7 @@
       "name": "Markup - Table",
       "scope": ["markup.table"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#16840c"
       }
     }
   ]
