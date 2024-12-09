@@ -2,9 +2,9 @@
   "name": "dark",
   "colors": {
     "editor.background": "#1d1d1db5",
-    "editor.foreground": "#FCC737",
+    "editor.foreground": "#fefffd",
     "activityBarBadge.background": "#3fba89",
-    "sideBarTitle.foreground": "#37fc4b"
+    "sideBarTitle.foreground": "#FCC737"
   },
   "tokenColors": [
     {
