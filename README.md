@@ -2,7 +2,7 @@
 
 Dim Dark is a sleek and modern dark theme for Visual Studio Code, designed to provide a visually soothing coding experience. Its balanced contrast and subtle color palette make it perfect for long coding sessions, reducing eye strain while keeping your workspace focused and distraction-free.
 
-![Dim Dark Theme Screenshot](screenshot.png)
+![Dim Dark Theme Screenshot](https://github.com/professinalsidd/vs-code-theme-extension/raw/main/screenshot.png)
 
 ## Features
 
