@@ -1,6 +1,6 @@
 {
   "name": "dark",
-  "displayName": "counter black",
+  "displayName": "dark",
   "description": "it's black theme",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "counter black",
+        "label": "dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-theme.json"
       }
