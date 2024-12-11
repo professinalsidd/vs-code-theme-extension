@@ -23,6 +23,18 @@
       }
     },
     {
+      "name": "Unused Imports",
+      "scope": [
+        "meta.import.unused.ts",
+        "meta.import.unused.tsx",
+        "meta.import.unused.js",
+        "meta.import.unused.jsx"
+      ],
+      "settings": {
+        "foreground": "#FF6F61"
+      }
+    },
+    {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
@@ -393,7 +405,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#fffbf4"
       }
     },
     {
