@@ -1,10 +1,17 @@
 {
   "name": "dark",
   "colors": {
-    "editor.background": "#1d1d1db5",
+    "editor.background": "#1e1e1e",
     "editor.foreground": "#fefffd",
     "activityBarBadge.background": "#3fba89",
-    "sideBarTitle.foreground": "#FCC737"
+    "sideBarTitle.foreground": "#FCC737",
+    "terminal.background": "#1e1e1e",
+    "terminal.foreground": "#d4d4d4",
+    "terminalCursor.background": "#d4d4d4",
+    "terminalCursor.foreground": "#ffffff",
+    "editorGroup.border": "#FF5733",
+    "panel.border": "#FF5733",
+    "sideBar.border": "#FF5733"
   },
   "tokenColors": [
     {
@@ -20,6 +27,20 @@
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         "foreground": "#faa364"
+      }
+    },
+    {
+      "name": "Unused Variables",
+      "scope": [
+        "variable.other.readwrite.unused.ts",
+        "variable.other.readwrite.unused.tsx",
+        "variable.other.readwrite.unused.js",
+        "variable.other.readwrite.unused.jsx",
+        "variable.unused"
+      ],
+      "settings": {
+        "foreground": "#5e150e",
+        "fontStyle": "italic underline"
       }
     },
     {
